@@ -1,0 +1,55 @@
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid\App1\bin\Debug\App1.dll
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid\App1\bin\Debug\App1.pdb
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid\App1\bin\Debug\App1.App1.apk
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid\App1\bin\Debug\App1.App1-Signed.apk
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid\App1\obj\Debug\HelloAndroid.XML.csproj.CoreCompileInputs.cache
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid\App1\obj\Debug\App1.dll
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid\App1\obj\Debug\App1.pdb
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid\App1\obj\Debug\android\bin\App1.App1.apk
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid\App1\obj\Debug\res\layout\main.xml
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid\App1\obj\Debug\res\values\strings.xml
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid\App1\obj\Debug\R.cs.flag
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid\App1\obj\Debug\uploadflags.txt
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid\App1\bin\Debug\App1.dll.mdb
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid\App1\obj\Debug\android\assets\App1.dll.mdb
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid\App1\obj\Debug\HelloAndroid.XML.csprojResolveAssemblyReference.cache
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid_Lab1B_CatherineWhitaker\App1\obj\Debug\HelloAndroid.XML.csprojResolveAssemblyReference.cache
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid_Lab1B_CatherineWhitaker\App1\obj\Debug\HelloAndroid.XML.csproj.CoreCompileInputs.cache
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid_Lab1B_CatherineWhitaker\App1\obj\Debug\res\layout\main.xml
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid_Lab1B_CatherineWhitaker\App1\obj\Debug\res\values\strings.xml
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid_Lab1B_CatherineWhitaker\App1\obj\Debug\R.cs.flag
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid_Lab1B_CatherineWhitaker\App1\obj\Debug\uploadflags.txt
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid_Lab1B_CatherineWhitaker\App1\bin\Debug\App1.dll.mdb
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid_Lab1B_CatherineWhitaker\App1\obj\Debug\android\assets\App1.dll.mdb
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid_Lab1B_CatherineWhitaker\App1\bin\Debug\HelloAndroid.dll.mdb
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid_Lab1B_CatherineWhitaker\App1\obj\Debug\android\assets\HelloAndroid.dll.mdb
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid_Lab1B_CatherineWhitaker\App1\bin\Debug\HelloAndroid_XML.dll.mdb
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid_Lab1B_CatherineWhitaker\App1\obj\Debug\android\assets\HelloAndroid_XML.dll.mdb
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid_Lab1B_CatherineWhitaker\App1\bin\Debug\HelloAndroid.dll
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid_Lab1B_CatherineWhitaker\App1\bin\Debug\HelloAndroid.pdb
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid_Lab1B_CatherineWhitaker\App1\bin\Debug\HelloAndroid.HelloAndroid.apk
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid_Lab1B_CatherineWhitaker\App1\bin\Debug\HelloAndroid.HelloAndroid-Signed.apk
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid_Lab1B_CatherineWhitaker\App1\obj\Debug\HelloAndroid.dll
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid_Lab1B_CatherineWhitaker\App1\obj\Debug\HelloAndroid.pdb
+C:\Users\catwh\Documents\Visual Studio 2017\Projects\CS235AM\HelloAndroid_Lab1B_CatherineWhitaker\App1\obj\Debug\android\bin\HelloAndroid.HelloAndroid.apk
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\HelloAndroid.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

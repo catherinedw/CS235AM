@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">HelloAndoid.XML</string>
+  <string name="aButtonText">Tap To Count</string>
+  <string name="aLabelText">0 taps</string>
+  <string name="clearButtonText">Clear</string>
+  <string name="helloLabelText">---</string>
+  <string name="helloButtonText">Hello from the button</string>
+</resources>

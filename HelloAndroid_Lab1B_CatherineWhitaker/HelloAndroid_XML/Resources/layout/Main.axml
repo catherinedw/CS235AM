@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:Android="http://schemas.android.com/apk/res/android"
+    Android:orientation="vertical"
+    Android:layout_width="match_parent"
+    Android:layout_height="match_parent"
+    Android:id="@+id/linearLayout1">
+    <TextView
+        Android:text="@string/aLabelText"
+        Android:layout_width="match_parent"
+        Android:layout_height="wrap_content"
+        Android:id="@+id/aLabel" />
+    <Button
+        Android:text="@string/aButtonText"
+        Android:layout_width="match_parent"
+        Android:layout_height="wrap_content"
+        Android:id="@+id/aButton" />
+    <TextView
+        Android:textAppearance="?android:attr/textAppearanceLarge"
+        Android:layout_width="match_parent"
+        Android:layout_height="wrap_content"
+        Android:id="@+id/helloLabel"
+        Android:text="@string/helloLabelText" />
+    <Button
+        Android:text="@string/clearButtonText"
+        Android:layout_width="match_parent"
+        Android:layout_height="wrap_content"
+        Android:id="@+id/clearButton" />
+</LinearLayout>

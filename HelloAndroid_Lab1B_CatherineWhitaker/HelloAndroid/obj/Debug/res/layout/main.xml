@@ -1,0 +1,22 @@
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android"><!-- This is commented out since we do not need this. These variable are defined in the main activity
+  <TextView
+        android:id="@+id/aLabel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/aLabelText" />
+    <Button
+        android:id="@+id/aButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/aButtonText" />
+    <TextView
+        android:id="@+id/helloLabel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/helloLabelText" />
+    <Button
+        android:id="@+id/clearButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/clearButtonText" />
+  --></LinearLayout>
